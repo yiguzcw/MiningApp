@@ -1,0 +1,98 @@
+.wid{
+     width: 100% !important;
+     min-width: 320px !important;
+     max-width: 700px !important;
+     margin: 0 auto !important;
+}
+
+.mt-header{
+    background:rgb(147, 212, 220);
+    color:rgb(0,0,0);
+    height:50px;
+}
+
+.mybtn{
+    background:rgb(147, 212, 220);
+    color:rgb(0,0,0)
+}
+
+#app-login{
+    height: 100%;
+}
+.img1{
+    width: 100%;
+    margin-top: -50px;
+    display: inline-block;
+}
+.login-item{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+} 
+.login-item>p{
+    width: 30% !important;
+    line-height: 40px;
+    color: rgb(0,0,0) !important;
+    font-size: 14px !important;
+}
+
+.login-item>input{
+    font-size: 14px !important;
+}
+    #app-login .load{
+    display:block;
+    margin-left:35%;
+}
+
+
+table{
+    width: 100%;
+    margin-top: 10px;
+}
+tr{
+    width: 100%;   
+}
+.tr1{
+    background: rgb(170, 226, 222);
+    height: 50px;
+}
+.tr1>td{
+    font-size: 14px;
+    font-weight: 600;
+}
+td{
+    font-size: 12px;
+    text-align: center;
+    height: 40px;
+    border-bottom: 1px solid rgb(170, 226, 222);
+}
+
+.ab-tit{
+    width: 100%;
+    padding: 10px;
+    margin:10px 0;
+    /* background: #aae2de; */
+    border-bottom: 1px solid rgb(147, 212, 220);
+    font-weight: 700;
+}
+.ab-p{
+    padding: 10px;
+    margin-bottom: 0;
+    font-weight: 700;
+    color: rgb(0,0,0);
+}
+.ab-span{
+    display: inline-block;
+    font-size: 12px;
+    color: rgb(75,75,75);
+    padding:0 15px;
+}
+.ab-d1{
+    overflow: hidden;
+}
+
+.page{
+    margin-left: 65%;
+    background: rgb(170, 226, 222);
+}
